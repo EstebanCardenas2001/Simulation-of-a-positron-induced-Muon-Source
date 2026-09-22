@@ -33,26 +33,26 @@ The code generates several analytical and statistical plots to validate the Mont
 
 ### 1. Monte Carlo Validation
 The Accept-Reject algorithm relies on a bounding box (w_max) to sample the theoretical distribution. 
-![Monte Carlo Accept-Reject](<img width="1187" height="707" alt="1" src="https://github.com/user-attachments/assets/8c75f199-f8c7-4d91-9566-5b76a346a020" />)
+![Monte Carlo Accept-Reject](https://github.com/user-attachments/assets/8c75f199-f8c7-4d91-9566-5b76a346a020)
 
 ### 2. Angular & Kinematic Distributions
 Compares the uniform azimuthal angle (φ) and the highly directional polar scattering angle (θ) against theoretical QED PDFs, alongside CM vs. Lab momentum shifts[cite: 1].
-![Kinematic Distributions](<img width="1389" height="490" alt="2" src="https://github.com/user-attachments/assets/6e5defd7-b2c9-4591-88fd-2a27e6dc6849" />
+![Kinematic Distributions](https://github.com/user-attachments/assets/6e5defd7-b2c9-4591-88fd-2a27e6dc6849>
 )
 
 ### 3. Realistic Beam Profile & Energy Spread
 Visualizes the uniform density correction applied to the beam radius sampling to prevent unphysical central clustering, and the normal distribution of the beam energy[cite: 1].
-![Beam Profile](<img width="1475" height="1184" alt="3" src="https://github.com/user-attachments/assets/6e385766-0c4f-4704-bce0-1974031bed60" />
+![Beam Profile](https://github.com/user-attachments/assets/6e385766-0c4f-4704-bce0-1974031bed60>
 ) 
 
 ### 4. Target Bremsstrahlung Energy Loss
 Maps the exponential decay of the positron beam energy through the Beryllium target, ensuring the nominal energy is high enough to cross the ≈ 43.69 GeV minimum threshold by the exit[cite: 1].
-![Energy Loss](<img width="990" height="590" alt="4" src="https://github.com/user-attachments/assets/a0063d1c-28b8-49a8-ae94-f694ac31b839" />
+![Energy Loss](https://github.com/user-attachments/assets/a0063d1c-28b8-49a8-ae94-f694ac31b839>
 ) 
 
 ### 5. Z-Dependent Production Depth
 Displays the weighted vs. unweighted distribution of muon origins inside the target, demonstrating how the production rate drops exponentially as the beam loses energy[cite: 1].
-![Z-Dependent Production](<img width="1187" height="707" alt="6" src="https://github.com/user-attachments/assets/eaca24de-edc5-4d04-a8fd-d03a77e660ba" />
+![Z-Dependent Production](https://github.com/user-attachments/assets/eaca24de-edc5-4d04-a8fd-d03a77e660ba>
 ) 
 
 ## Usage
